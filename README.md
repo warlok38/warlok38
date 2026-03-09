@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yaroslav Malyutin</h1>
 <h3 align="center">Frontend developer from Syberia</h3>
 
-- 🔭 I'm currently working on **[jewelry portal](https://polyusdigital.ru/)**
+- 🔭 I'm currently working on **[Polyus digital](https://polyusdigital.ru/)**
 - 🎮 Also i making game about my cat **Define Cat Journey**. Сheck the repo :)
 - 📫 How to reach me **warlok38@mail.ru**
 
