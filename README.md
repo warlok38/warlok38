@@ -1,55 +1,66 @@
-<h1 align="center">Hi 👋, I'm Yaroslav Malyutin</h1>
-<h3 align="center">Frontend developer from Syberia</h3>
+<h1 align="center">Yaroslav Malyutin</h1>
+<h3 align="center">Frontend Developer</h3>
 
-- 🔭 I'm currently working on **[Polyus digital](https://polyusdigital.ru/)**
-- 🎮 Also i making game about my cat **Define Cat Journey**. Сheck the repo :)
-- 📫 How to reach me **warlok38@mail.ru**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-	  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
+<p align="center">
+  Building scalable web interfaces and product-focused frontend architecture.
 </p>
+
+- 🔭 Currently working at **[Polyus Digital](https://polyusdigital.ru/)**
+- 💼 **6+ years** in frontend development
+- 🧩 Focus: scalable UI, architecture, performance, developer experience
+- 📍 Siberia
+- 📫 Email: **warlok38@mail.ru**
+- 💬 Telegram: **@warlok38**
+- 🐙 GitHub: **[github.com/warlok38](https://github.com/warlok38)**
+
+---
+
+### About Me
+
+Frontend engineer with strong production experience in corporate and product environments.  
+I design and build scalable frontend applications, improve performance, and keep codebases maintainable as products grow.
+
+I regularly contribute to:
+- solution design and feature decomposition;
+- code review and development standards;
+- refactoring and modernization of frontend architecture;
+- cross-team collaboration with backend and design.
+
+---
+
+### Core Stack
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="18" height="18"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="18" height="18"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="18" height="18"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="18" height="18"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="18" height="18"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="18" height="18"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="18" height="18"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg" alt="Styled Components" width="18" height="18"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Styled System" width="18" height="18"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="Ant Design" width="18" height="18"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="MUI" width="18" height="18"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="Axios" width="18" height="18"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="18" height="18"/></td>
+  </tr>
+</table>
+
+- **Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), Redux / RTK / RTK Query
+- **UI & Styling:** HTML5, CSS3, CSS Modules, Styled Components, Styled System, Ant Design, MUI
+- **Integrations:** REST API, WebSocket, Axios, i18n
+- **Tooling & Process:** Git, PWA, Agile (Scrum / Kanban)
+
+---
+
+### Experience Highlights
+
+- Built and supported interfaces for corporate web services
+- Implemented adaptive and cross-browser UI (including pixel-perfect)
+- Integrated frontend with backend services via REST API
+- Contributed to UI-kit approach and reusable component development
+- Worked with real-time features using WebSocket
+- Migrated parts of projects from JavaScript to TypeScript
+- Improved CI stability and resolved dependency/cache-related pipeline issues
